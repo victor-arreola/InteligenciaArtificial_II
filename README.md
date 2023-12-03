@@ -22,3 +22,13 @@ Entrenamiento_heatmaps_6.0 MSE.ipynb
 Entrenamiento_heatmaps_6.0 CategoricalCrossentropy.ipynb
 
 Entrenamiento_heatmaps_6.0 CosineSimilarity.ipynb
+
+# Integrantes del equipo 
+
+1.Victor Hugo Arreola Elenes
+
+2.Fernando Ojeda Marín 
+
+3.Mario Alberto Castañeda Martínez
+
+4.Luis Manuel Orozco Yañez
