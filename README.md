@@ -9,6 +9,9 @@ EL codigo para obtener los heatmaps con el controno en los 7 landmarks seleccion
 
 El codigo donde entrenamos y donde tambien se encuentran los resultados de nuestro segundo modelo para obtener landmarks se encuetra en el codigo llamado Entrenamiento_heatmaps_Final_AdaLoss.ipynb
 
+Por ultimo el reporte de este proyecto se encuentra en Identificación de ventrículo izquierdo del corazón mediante máscaras y landmarks utilizando modelos Deep Learning.pdf
+
+
 # Otros modelos probados 
 
 Entrenamiento_heatmaps_4.0.ipynb
